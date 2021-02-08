@@ -2,6 +2,10 @@
 
 : In SpringBoot, example for ApplicationEvent
 
+## Annotation(@) for Application Event
+- @EventListener
+- @TransactionalEventListener
+
 ## Index
 
 1. Create event class to handle as unit in ApplicationContext
