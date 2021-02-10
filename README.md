@@ -98,3 +98,5 @@ public class TestResource {
     }
 }
 ```
+### Reference
+- [Example code for Spring Application Event](https://www.baeldung.com/spring-events)
